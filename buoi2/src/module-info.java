@@ -1,0 +1,2 @@
+module buoi2 {
+}
